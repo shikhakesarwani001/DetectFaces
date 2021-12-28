@@ -1,6 +1,5 @@
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
-image:
-  file: Dockerfile
+
 tasks:
   - name: Terminal 1
     init: echo 'init script' # runs during prebuild
